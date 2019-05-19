@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">ArrayCountry</string-array>
+    <string-array name="r_cities">r_cities</string-array>
+    <string-array name="u_cities">u_cities</string-array>
+    <string-array name="b_cities">b_cities</string-array>
+</resources>
