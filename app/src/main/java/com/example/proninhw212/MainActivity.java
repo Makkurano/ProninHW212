@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public void mShowAddressBtn(View view) {
+    public void showAddressBtn(View view) {
         Toast.makeText(MainActivity.this
                 ,mCountriesSpinner.getSelectedItem().toString()
                         + " "
